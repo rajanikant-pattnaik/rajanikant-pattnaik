@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanikant-pattnaik&label=Profile%20views&color=0e75b6&style=flat" alt="rajanikant-pattnaik" /> </p>
 
-- 🌱 I’m currently learning **docker, AWS and GraphQl**
+- 🌱 I’m currently learning **docker, AWS and GraphQL**
 
 - 💬 Ask me about **react, nextjs and nodejs**
 
