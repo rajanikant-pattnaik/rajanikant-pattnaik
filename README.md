@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanikant-pattnaik&label=Profile%20views&color=0e75b6&style=flat" alt="rajanikant-pattnaik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajanikant-pattnaik" alt="rajanikant-pattnaik" /></a> </p>
-
 - 🌱 I’m currently learning **docker, AWS and GraphQl**
 
 - 💬 Ask me about **react, nextjs and nodejs**
